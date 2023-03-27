@@ -1,0 +1,20 @@
+[
+  {
+    "author": "tEST",
+    "pages": "144",
+    "isbn": "tEST",
+    "id": 4,
+    "title": "Marcin tYTUL",
+    "publisher": "tEST",
+    "year": 2014
+  },
+  {
+    "author": "Marcin",
+    "pages": "124",
+    "isbn": "124412",
+    "id": 5,
+    "title": "Test",
+    "publisher": "Marcin",
+    "year": 1994
+  }
+]

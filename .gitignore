@@ -1,0 +1,21 @@
+# Pliki wygenerowane przez środowisko IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Pliki katalogów docelowych (output) i pliki katalogów docelowych wygenerowane przez IDE
+out/
+target/
+build/
+
+# Pliki tymczasowe
+*.class
+*.jar
+
+# Pliki tekstowe
+*.log
+*.txt
+
+# Inne
+.DS_Store
+Thumbs.db
