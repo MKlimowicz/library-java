@@ -24,7 +24,7 @@ public class LibraryFileManagerImpl implements LibraryFileManager {
             case BOOK -> createBook((Book) publication);
             case MAGAZINE -> createMagazine((Magazine) publication);
             default ->
-                    System.out.println("Nie można utworzyć takiego typu publikacji"); // TODO Zastanowic sie czy nie rzucac w takich miejscahc wyjatki
+                    System.out.println("Nie można utworzyć takiego typu publikacji");
         }
     }
 
